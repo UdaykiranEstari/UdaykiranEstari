@@ -24,9 +24,9 @@ In this Project, I developed a COVID-19 UK Cases GUI using Tkinter in Python. It
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/UdaykiranEstari/UdaykiranEstari/blob/main/Images/appstoreapps.jpeg"> **[Unlocking App Success: A Data-Driven Journey with SQL on Apple Store Apps](https://github.com/UdaykiranEstari/Practical-SQL-DataAnalysis-AppleStore-App-Analytics)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+I leveraged SQL to uncover valuable insights for app developers. From the advantages of paid apps and language support optimization to pinpointing lower-rated app categories, Examined the role of app descriptions in user ratings and provided a benchmark for new apps looking to stand out in a competitive market. I addressed the competitive games and entertainment genres, revealing a path to success through unique value and quality.
 
 #
 
