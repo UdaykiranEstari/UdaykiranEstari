@@ -3,12 +3,12 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - **Email**: [eastariuday123@gmail.com](eastariuday123@gmail.com)
 - **LinkedIn**: [linkedin.com/UdaykiranEstari](https://www.linkedin.com/in/udaykiranestari)
+- **Tableau**: [tableau.com/UdaykiranEstari](https://public.tableau.com/app/profile/estari.udaykiran/vizzes)
 
 ## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+- Recipient of Best Student Award for Outstanding overall performace by securing 9.5 SGPA in 5 Consecutive semesters.
+- Recipient of FFE Scholarship and Fee Waiver for excellent academic performance (98.5%).
+- Winner of 61st National SGFI Competition, securing first place in both the Individual and Team championship categories.
 
 ## Projects
 
