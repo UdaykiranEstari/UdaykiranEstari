@@ -1,26 +1,26 @@
 # Data Science Portfolio - Udaykiran Estari
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on a regular basis.
 
 - **Email**: [eastariuday123@gmail.com](eastariuday123@gmail.com)
 - **LinkedIn**: [linkedin.com/UdaykiranEstari](https://www.linkedin.com/in/udaykiranestari)
 - **Tableau**: [tableau.com/UdaykiranEstari](https://public.tableau.com/app/profile/estari.udaykiran/vizzes)
 
 ## Achievements
-- Recipient of Best Student Award for Outstanding overall performace by securing 9.5 SGPA in 5 Consecutive semesters.
+- Recipient of Best Student Award for Outstanding overall performance by securing 9.5 SGPA in 5 Consecutive semesters.
 - Recipient of FFE Scholarship and Fee Waiver for excellent academic performance (98.5%).
-- Winner of 61st National SGFI Competition, securing first place in both the Individual and Team championship categories.
+- Winner of the 61st National SGFI Competition, securing first place in the Individual and Team championship categories.
 
 ## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Real-time CO2 Emissions Forecasting with Time Series Models](https://github.com/UdaykiranEstari/real-time-co2-emissions-forecasting)**
 
-In this project I have extracted data of real-time CO2 emissions using an API, cleaning and preprocessing the data, and building various time series models including AR, ARIMA, SARIMA, and LSTM. The repository also includes the necessary scripts for analyzing the models and selecting the best-performing one. Finally, the selected model is used for forecasting CO2 emissions for the next 10 years.
+In this project, I have extracted data of real-time CO2 emissions using an API, cleaned and preprocessed the data, and built various time series models including AR, ARIMA, SARIMA, and LSTM. The repository also includes the necessary scripts for analyzing the models and selecting the best-performing ones. Finally, the selected model is used for forecasting CO2 emissions for the next 10 years.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[COVID-19 UK Tracker: Interactive Graphical User Interface](https://github.com/UdaykiranEstari/covid19-uk-gui-tkinter)**
 
-In this Project I developed a COVID-19 UK Cases GUI using Tkinter in Python. It offers real-time data updates, interactive graphs, date selection via a calendar widget, and a convenient place comparison feature. This user-friendly interface provides up-to-date COVID-19 information, interactive visuals, and the ability to focus on specific dates or regions for analysis.
+In this Project, I developed a COVID-19 UK Cases GUI using Tkinter in Python. It offers real-time data updates, interactive graphs, date selection via a calendar widget, and a convenient place comparison feature. This user-friendly interface provides up-to-date COVID-19 information, interactive visuals, and the ability to focus on specific dates or regions for analysis.
 
 #
 
