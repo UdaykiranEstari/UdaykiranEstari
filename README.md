@@ -18,7 +18,7 @@ In this project, I have extracted data of real-time CO2 emissions using an API, 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[COVID-19 UK Tracker: Interactive Graphical User Interface](https://github.com/UdaykiranEstari/covid19-uk-gui-tkinter)**
+<img align="left" width="250" height="150" src="https://github.com/UdaykiranEstari/UdaykiranEstari/blob/main/Images/Covid19.jpg"> **[COVID-19 UK Tracker: Interactive Graphical User Interface](https://github.com/UdaykiranEstari/covid19-uk-gui-tkinter)**
 
 In this Project, I developed a COVID-19 UK Cases GUI using Tkinter in Python. It offers real-time data updates, interactive graphs, date selection via a calendar widget, and a convenient place comparison feature. This user-friendly interface provides up-to-date COVID-19 information, interactive visuals, and the ability to focus on specific dates or regions for analysis.
 
