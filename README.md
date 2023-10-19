@@ -12,9 +12,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Real-time CO2 Emissions Forecasting with Time Series Models](https://github.com/UdaykiranEstari/real-time-co2-emissions-forecasting)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project I have extracted data of real-time CO2 emissions using an API, cleaning and preprocessing the data, and building various time series models including AR, ARIMA, SARIMA, and LSTM. The repository also includes the necessary scripts for analyzing the models and selecting the best-performing one. Finally, the selected model is used for forecasting CO2 emissions for the next 10 years.
 
 #
 
