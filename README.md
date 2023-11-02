@@ -52,12 +52,5 @@ This Git repository focuses on A/B testing of Instagram ad campaigns to optimize
     - [Excel Skills for Business- Intermediate I](https://github.com/UdaykiranEstari/UdaykiranEstari/blob/main/Certificates/Excel%20Skills%20for%20Business-%20Intermediate%20I.png)
     - [Excel Skills for Business- Intermediate II](https://github.com/UdaykiranEstari/UdaykiranEstari/blob/main/Certificates/Excel%20Skills%20for%20Business-%20Intermediate%20II.png)
     - [Excel Skills for Business- Advanced](https://github.com/UdaykiranEstari/UdaykiranEstari/blob/main/Certificates/Excel%20Skills%20for%20Business-%20Advanced.png)
-- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
-- [Apache PySpark Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Apache%20Pyspark%20By%20Example%20(2).pdf)
-- [SQL Essential Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Sql%20Essential%20Training%202018%20(1).pdf)
-- [SQL Test By HackerRank](https://www.hackerrank.com/certificates/c0cda4c2f1b5)
-- [SQL Test By Testdome](https://www.testdome.com/cert/24cd496af7a24a8489a1fd5de791c392)
-- [Data Science Test By Testdome](https://www.testdome.com/cert/124165d7386d4f76be84c240e0547bd3)
+- [Programming for Everybody by Michigan University](https://github.com/UdaykiranEstari/UdaykiranEstari/blob/main/Certificates/Programming%20for%20Everybody.png)
 
-- [Big Data 101 By Cognitiveclass.ai](https://courses.cognitiveclass.ai/certificates/bfc1df7e5d084a73b84223495263d0fe)
-- [Google Analytics for Begineers By Google](https://analytics.google.com/analytics/academy/certificate/kHYtirzEQV29uzNG8xSFXg)
